@@ -1,4 +1,4 @@
-### MasterChef contract deployment 
+### DAO Briebe contract deployment 
 - config
 add private key to .env file
 ```javascript
